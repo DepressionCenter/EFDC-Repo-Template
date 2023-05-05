@@ -35,8 +35,8 @@ If you need assistance identifying a contact person, email the EFDC's Mobile Tec
 
 ## Credits
 #### Contributors:
-+ Eisenberg Family Depression Center ![(@DepressionCenter)](https://github.com/DepressionCenter/)
-+ Gabriel Mongefranco ![(@gabrielmongefranco)](https://github.com/gabrielmongefranco)
++ Eisenberg Family Depression Center [(@DepressionCenter)](https://github.com/DepressionCenter/)
++ Gabriel Mongefranco [(@gabrielmongefranco)](https://github.com/gabrielmongefranco)
 
 
 
