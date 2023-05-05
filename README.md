@@ -3,7 +3,7 @@
 # <Repository Title>
 
 ## Description
-This is the code repository for <program/library name>, a <program/library> for <description of what it does>.
+This is the code repository for <program/library name>, a <program/library> for (description of what it does).
 
 
 
