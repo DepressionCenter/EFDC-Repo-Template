@@ -73,4 +73,4 @@ If you find this repository, code or paper useful for your research, please cite
 
 ----
 
-Copyright © 2023 The Regents of the University of Michigan
+Copyright © 2024 The Regents of the University of Michigan
