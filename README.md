@@ -3,33 +3,37 @@
 # <Repository Title>
 
 ## Description
-This is the code repository for <program/library name>, a <program/library> for (description of what it does).
+<Program/Library name> is a <program/library/collection of scripts> for <description of what it does and what problem it solves>.
 
 
 
 ## Quick Start Guide
-<Quick compile/run instructions>
++ <Short compile/run instructions, without too much detail>
 
 
 
 ## Documentation
-<Links to manual, wiki, full documentation, etc.>
++ Detailed setup and use instructions are available in the companion knowledge base article, [article_title](link).
++ __OR__ The full documentation is available at: <Links to manual, wiki, full documentation, etc.>
+
 
 
 ## Additional Resources
-<Links to study website, related projects, etc.>
++ <Links to study website, related projects, etc.>
 
 
 
 ## About the Team
-< 1-2 paragraphs about your core, study team, class or project. >
+< 1-2 paragraphs about your department, core, lab, study team, class or project. This is your marketing space! >
+
+Learn more at: <link to full website>
 
 
 
 ## Contact
 To get in touch, contact the individual developers in the check-in history.
 
-If you need assistance identifying a contact person, email the EFDC's Mobile Technologies Core at: efdc-mobiletech@umich.edu.
+If you need assistance identifying a contact person, email the project maintainers at: <dept/lab/mcommunity group email address>.
 
 
 
@@ -37,11 +41,13 @@ If you need assistance identifying a contact person, email the EFDC's Mobile Tec
 #### Contributors:
 + Eisenberg Family Depression Center [(@DepressionCenter)](https://github.com/DepressionCenter/)
 + Gabriel Mongefranco [(@gabrielmongefranco)](https://github.com/gabrielmongefranco)
++ Name [ @githubusername ]( link to github profile or website )
 
 
 
 #### This work is based in part on the following projects, libraries and/or studies:
 + None
++ __OR__ <Library or project name> - <link>
 
 
 
@@ -50,7 +56,7 @@ If you need assistance identifying a contact person, email the EFDC's Mobile Tec
 Copyright © 2023 The Regents of the University of Michigan
 
 
-### Software and Library License
+### Software and Library License Notice
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
@@ -58,7 +64,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/gpl-3.0-standalone.html>.
 
 
-### Documentation License
+### Documentation License Notice
 Permission is granted to copy, distribute and/or modify this document 
 under the terms of the GNU Free Documentation License, Version 1.3 
 or any later version published by the Free Software Foundation; 
