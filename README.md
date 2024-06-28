@@ -3,37 +3,38 @@
 # <Repository Title>
 
 ## Description
-<Program/Library name> is a <program/library/collection of scripts> for <description of what it does and what problem it solves>.
+<Program/Library name> is a < program/library/collection of scripts > for < description of what it does and what problem it solves >.
 
 
 
 ## Quick Start Guide
-+ <Short compile/run instructions, without too much detail>
++ < Short compile/run instructions, without too much detail >
 
 
 
 ## Documentation
-+ Detailed setup and use instructions are available in the companion knowledge base article, [article_title](link).
-+ __OR__ The full documentation is available at: <Links to manual, wiki, full documentation, etc.>
++ The full documentation is available at: < Link to manual, wiki, full documentation, etc. >
++ __OR__ Detailed setup and use instructions are available in the companion knowledge base article, [ article_title ]( link ).
+
 
 
 
 ## Additional Resources
-+ <Links to study website, related projects, etc.>
++ < Links to study website, related projects, etc. >
 
 
 
 ## About the Team
 < 1-2 paragraphs about your department, core, lab, study team, class or project. This is your marketing space! >
 
-Learn more at: <link to full website>
+Learn more at: < link to dept/lab/project website >
 
 
 
 ## Contact
 To get in touch, contact the individual developers in the check-in history.
 
-If you need assistance identifying a contact person, email the project maintainers at: <dept/lab/mcommunity group email address>.
+If you need assistance identifying a contact person, email the project maintainers at: < dept/lab/mcommunity group email address >.
 
 
 
@@ -47,7 +48,7 @@ If you need assistance identifying a contact person, email the project maintaine
 
 #### This work is based in part on the following projects, libraries and/or studies:
 + None
-+ __OR__ <Library or project name> - <link>
++ __OR__ < Library or project name > - < link >
 
 
 
