@@ -54,7 +54,7 @@ If you need assistance identifying a contact person, email the project maintaine
 
 ## License
 ### Copyright Notice
-Copyright © 2024 The Regents of the University of Michigan
+Copyright © 2025 The Regents of the University of Michigan
 
 
 ### Software and Library License Notice
