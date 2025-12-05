@@ -1,9 +1,31 @@
-![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
+<!--
+This file is part of < PROJECT NAME >
+README.md
+Author(s): First Last; First Last; First Last; First Last.
+Created: 2026-01-01
+Last Modified: 2026-01-01
+Summary: Provides an overview of the project, in Markdown format.
+Notes: See README file for documentation and full license information.
 
-# <Repository Title>
+Copyright © 2026 The Regents of the University of Michigan
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along
+with this program. If not, see <https://www.gnu.org/licenses/>.
+
+-->
+![Eisenberg Family Depression Center](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
+
+# < Repository Title >
 
 ## Description
-<Program/Library name> is a < program/library/collection of scripts > for < description of what it does and what problem it solves >.
+< Program/Library name > is a < program/library/collection of scripts > for < description of what it does and what problem it solves >.
 
 
 
@@ -13,8 +35,8 @@
 
 
 ## Documentation
-+ The full documentation is available at: < Link to manual, wiki, full documentation, etc. >
-+ __OR__ Detailed setup and use instructions are available in the companion knowledge base article, [ article_title ]( link ).
++ The full documentation is available at: https://michmed.org/efdc-kb
++ __OR__ Detailed setup and usage instructions are available at: [ article_title ](https://link).
 
 
 
@@ -40,9 +62,12 @@ If you need assistance identifying a contact person, email the project maintaine
 
 ## Credits
 #### Contributors:
-+ Eisenberg Family Depression Center [(@DepressionCenter)](https://github.com/DepressionCenter/)
-+ Gabriel Mongefranco [(@gabrielmongefranco)](https://github.com/gabrielmongefranco)
++ [Eisenberg Family Depression Center](https://depressioncenter.org) [(@DepressionCenter)](https://github.com/DepressionCenter)
++ [Gabriel Mongefranco](https://gabriel.mongefranco.com) [(@gabrielmongefranco)](https://github.com/gabrielmongefranco)
 + Name [ @githubusername ]( link to github profile or website )
++ Name [ @githubusername ]( link to github profile or website )
++ [ Name ]( link to profile or website ) [ @githubusername ]( link to github profile )
++ [ Name ]( link to profile or website ) [ @githubusername ]( link to github profile )
 
 
 
@@ -54,7 +79,7 @@ If you need assistance identifying a contact person, email the project maintaine
 
 ## License
 ### Copyright Notice
-Copyright © 2025 The Regents of the University of Michigan
+Copyright © 2026 The Regents of the University of Michigan
 
 
 ### Software and Library License Notice
@@ -78,6 +103,16 @@ Free Documentation License". If not, see <https://www.gnu.org/licenses/fdl-1.3-s
 ## Citation
 If you find this repository, code or paper useful for your research, please cite it.
 
+#### Citation Example:
+>_Last, first; Last, First; Last, First (2026). < Project Name >. University of Michigan. Software. https://github.com/DepressionCenter/< Project URL >_  
+​​​​​​​     _DOI: [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v1 >](https://doi.org/...)_
+
+#### __OPTIONAL__ Release History and DOI #:
+* 2026-01-01: v1.0. [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v1 >](https://doi.org/...)
+* 2026-06-30: v1.5. [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v1_5 >](https://doi.org/...)
+* 2026-01-01: v2.0. [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v2 >](https://doi.org/...)
+
+
 ----
 
-Copyright © 2024-2025 The Regents of the University of Michigan
+Copyright © 2026 The Regents of the University of Michigan
