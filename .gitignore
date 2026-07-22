@@ -43,3 +43,4 @@ CHATGPT.md
 # Ignore cache files
 *.cache
 __pycache__/
+.venv/
