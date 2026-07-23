@@ -30,14 +30,22 @@ logs/*
 .idea/
 *.swp
 
-# Ignore AI coding tool configuration files
+# Ignore AI coding tool configuration files, except AGENTS.md
 .claude
+.claude/*
+.claudecode/*
 .gemini
-CLAUDE.md
+.gemini/*
+#.github/copilot-instructions.md
+.github-copilot
+.github-copilot/*
+.kimi
+#CLAUDE.md
 CLAUDECODE.md
-GEMINI.md
-KIMI.md
-CODEX.md
+#CONVENTIONS.md
+#GEMINI.md
+#KIMI.md
+#CODEX.md
 CHATGPT.md
 
 # Ignore cache files
