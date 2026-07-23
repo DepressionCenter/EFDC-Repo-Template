@@ -27,6 +27,9 @@ with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Description
 < Program/Library name > is a < program/library/collection of scripts > for < description of what it does and what problem it solves >.
 
+![Preview Image](Repo-preview.png)
+
+< List of key features, or a few sentences about what makes this project unique >.
 
 
 ## Quick Start Guide
