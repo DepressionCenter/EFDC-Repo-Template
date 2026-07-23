@@ -36,16 +36,16 @@ logs/*
 .claudecode/*
 .gemini
 .gemini/*
-#.github/copilot-instructions.md
+.github/copilot-instructions.md
 .github-copilot
 .github-copilot/*
 .kimi
-#CLAUDE.md
+CLAUDE.md
 CLAUDECODE.md
-#CONVENTIONS.md
-#GEMINI.md
-#KIMI.md
-#CODEX.md
+CONVENTIONS.md
+GEMINI.md
+KIMI.md
+CODEX.md
 CHATGPT.md
 
 # Ignore cache files
