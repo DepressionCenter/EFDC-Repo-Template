@@ -20,14 +20,14 @@ You should have received a copy of the GNU General Public License along
 with this program. If not, see <https://www.gnu.org/licenses/>.
 
 -->
-![Eisenberg Family Depression Center](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
+![Eisenberg Family Depression Center](https://code.depressioncenter.org/images/EFDCLogo_375w.png "depressioncenter.org")
 
 # < Repository Title >
 
 ## Description
 < Program/Library name > is a < program/library/collection of scripts > for < description of what it does and what problem it solves >.
 
-![Preview Image](Repo-preview.png)
+![Preview Image](images/Repo-preview.png)
 
 < List of key features, or a few sentences about what makes this project unique >.
 
