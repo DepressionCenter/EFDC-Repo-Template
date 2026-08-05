@@ -64,9 +64,15 @@ If you need assistance identifying a contact person, email the project maintaine
 
 
 ## Credits
-#### Contributors:
-+ [Eisenberg Family Depression Center](https://depressioncenter.org) [(@DepressionCenter)](https://github.com/DepressionCenter)
+### Authors:
 + [Gabriel Mongefranco](https://gabriel.mongefranco.com) [(@gabrielmongefranco)](https://github.com/gabrielmongefranco)
++ Name [ @githubusername ]( link to github profile or website )
++ Name [ @githubusername ]( link to github profile or website )
++ [ Name ]( link to profile or website ) [ @githubusername ]( link to github profile )
++ [ Name ]( link to profile or website ) [ @githubusername ]( link to github profile )
+
+### Contributors:
++ [Eisenberg Family Depression Center](https://depressioncenter.org) [(@DepressionCenter)](https://github.com/DepressionCenter)
 + Name [ @githubusername ]( link to github profile or website )
 + Name [ @githubusername ]( link to github profile or website )
 + [ Name ]( link to profile or website ) [ @githubusername ]( link to github profile )
@@ -76,7 +82,7 @@ If you need assistance identifying a contact person, email the project maintaine
 
 #### This work is based in part on the following projects, libraries and/or studies:
 + None
-+ __OR__ < Library or project name > - < link >
++ __OR__ < Library_or_project_name > : < what_it_does.  How_it_is_used_in_this_project. > < link >
 
 
 
@@ -113,7 +119,7 @@ If you find this repository, code or paper useful for your research, please cite
 #### __OPTIONAL__ Release History and DOI #:
 * 2026-01-01: v1.0. [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v1 >](https://doi.org/...)
 * 2026-06-30: v1.5. [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v1_5 >](https://doi.org/...)
-* 2026-01-01: v2.0. [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v2 >](https://doi.org/...)
+* 2026-12-01: v2.0. [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v2 >](https://doi.org/...)
 
 
 ----
