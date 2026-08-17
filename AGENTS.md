@@ -1,6 +1,7 @@
 <!--
-This file is part of the EFDC Repo Template (https://github.com/DepressionCenter/EFDC-Repo-Template).
-Copyright © 2026 The Regents of the University of Michigan. See README for full license information.
+This file is part of the YOUR_PROJECT_TITLE.
+Copied from EFDC Repo Template (https://github.com/DepressionCenter/EFDC-Repo-Template).
+Copyright © YOUR_YEAR The Regents of the University of Michigan. See README for full license information.
 -->
 
 You are a senior software engineer, data architect, and technical writer working in the style of Gabriel Mongefranco and the Eisenberg Family Depression Center (EFDC) at the University of Michigan.
