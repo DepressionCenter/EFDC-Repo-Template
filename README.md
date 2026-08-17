@@ -1,5 +1,5 @@
 <!--
-This file is part of < PROJECT NAME >
+This file is part of YOUR_PROJECT_TITLE
 README.md
 Author(s): First Last; First Last; First Last; First Last.
 Created: 2026-01-01
@@ -7,7 +7,7 @@ Last Modified: 2026-01-01
 Summary: Provides an overview of the project, in Markdown format.
 Notes: See README file for documentation and full license information.
 
-Copyright © 2026 The Regents of the University of Michigan
+Copyright © YOUR_YEAR The Regents of the University of Michigan
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -22,10 +22,27 @@ with this program. If not, see <https://www.gnu.org/licenses/>.
 -->
 ![Eisenberg Family Depression Center](https://code.depressioncenter.org/images/EFDCLogo_375w.png "depressioncenter.org")
 
-# < Repository Title >
+> [!NOTE]
+> # Eisenberg Family Depression Center Code Repository Template
+> __Copyright © 2026 The Regents of the University of Michigan__
+> ## **Template Setup Instructions (Delete this block when done)**
+> + Click the **"Use this template"** button, or download or fork this repo.
+> + Then, do a global **Find and Replace All** (Ctrl+Shift+H or Cmd+Shift+H) across all project files for the following variables:
+>   * `YOUR_PROJECT_TITLE` → e.g., `Sleep Data Analyzer`
+>   * `YOUR_REPO_NAME` → e.g., `sleep-data-analyzer` (no spaces, used for URLs)
+>   * `YOUR_YEAR` → e.g., `2026`
+>   * `YOUR_DOI` → e.g., `10.5281/zenodo.xxxxxxx` (or delete if not yet assigned)
+> + Manually edit these sections:
+>   1. `README.md` → Description section and Credits section
+>   2. `CITATION.cff` → `authors:` block
+>   3. `.zenodo.json` → `creators:` block
+> + When done, delete this note block.
+
+
+# YOUR_PROJECT_TITLE
 
 ## Description
-< Program/Library name > is a < program/library/collection of scripts > for < description of what it does and what problem it solves >.
+YOUR_PROJECT_TITLE is a < program/library/collection of scripts > for < description of what it does and what problem it solves >.
 
 ![Preview Image](images/Repo-preview.png)
 
@@ -38,8 +55,8 @@ with this program. If not, see <https://www.gnu.org/licenses/>.
 
 
 ## Documentation
-+ The full documentation is available at: https://michmed.org/efdc-kb
-+ __OR__ Detailed setup and usage instructions are available at: [ article_title ](https://link).
++ **Complete documentation:** See the [`/docs`](./docs) folder in this repository for setup guides, usage examples, architecture, and technical details.
++ **Overview for researchers and developers:** Visit the [Health Research Resource Library](https://michmed.org/efdc-kb) for a high-level summary, key features, and important assumptions.
 
 
 
@@ -57,9 +74,9 @@ Learn more at: < link to dept/lab/project website >
 
 
 ## Contact
-To get in touch, contact the individual developers in the check-in history.
+To get in touch, contact the project maintainers or the individual developers in the check-in history.
 
-If you need assistance identifying a contact person, email the project maintainers at: < dept/lab/mcommunity group email address >.
+If you need assistance identifying a contact person, email the Mobile Technologies Core at: efdc-mobiletech@umich.edu
 
 
 
@@ -82,13 +99,13 @@ If you need assistance identifying a contact person, email the project maintaine
 
 #### This work is based in part on the following projects, libraries and/or studies:
 + None
-+ __OR__ < Library_or_project_name > : < what_it_does.  How_it_is_used_in_this_project. > < link >
++ __OR__ < Library_or_project_name > : < what_it_does.  How_it_is_used_in_this_project. > License: < license >. < link >
 
 
 
 ## License
 ### Copyright Notice
-Copyright © 2026 The Regents of the University of Michigan
+Copyright © YOUR_YEAR The Regents of the University of Michigan
 
 
 ### Software and Library License Notice
@@ -113,8 +130,8 @@ Free Documentation License". If not, see <https://www.gnu.org/licenses/fdl-1.3-s
 If you find this repository, code or paper useful for your research, please cite it.
 
 #### Citation Example:
->_Last, first; Last, First; Last, First (2026). < Project Name >. University of Michigan. Software. https://github.com/DepressionCenter/< Project URL >_  
-​​​​​​​     _DOI: [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v1 >](https://doi.org/...)_
+>_Last, first; Last, First; Last, First (YOUR_YEAR). YOUR_PROJECT_NAME. University of Michigan. Software. https://github.com/DepressionCenter/YOUR_REPO_NAME_  
+​​​​​​​     _DOI: [YOUR_DOI](https://doi.org/YOUR_DOI)_
 
 #### __OPTIONAL__ Release History and DOI #:
 * 2026-01-01: v1.0. [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v1 >](https://doi.org/...)
@@ -124,4 +141,4 @@ If you find this repository, code or paper useful for your research, please cite
 
 ----
 
-Copyright © 2026 The Regents of the University of Michigan
+Copyright © YOUR_YEAR The Regents of the University of Michigan

@@ -1,6 +1,6 @@
 <!--
 This file is part of the EFDC Repo Template.
-Copyright © 2026 The Regents of the University of Michigan. See README for full license information.
+Copyright © YOUR_YEAR The Regents of the University of Michigan. See README for full license information.
 -->
 
 You are a senior software engineer, data architect, and technical writer working in the style of Gabriel Mongefranco and the Eisenberg Family Depression Center (EFDC) at the University of Michigan.
@@ -42,7 +42,7 @@ When requirements are incomplete, make the safest reasonable assumption, state i
 
 Every source file that supports comments starts with this, in the language's own comment syntax:
 
-    This file is part of < PROJECT NAME >
+    This file is part of YOUR_PROJECT_TITLE
     < CLASS, MODULE OR FILE NAME >
     Author(s): First Last; First Last.
     Created: YYYY-MM-DD
@@ -278,7 +278,7 @@ Create the pages that apply; skip the rest rather than writing empty stubs.
 1. Hidden license header: an HTML comment at the very top, present in source but invisible when rendered:
 
        <!--
-       This file is part of < PROJECT NAME >
+       This file is part of YOUR_PROJECT_TITLE
        Copyright © YYYY The Regents of the University of Michigan
        Licensed under the GNU Free Documentation License v1.3 or later.
        See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license information.
@@ -315,4 +315,4 @@ Small internal refactors with no user-visible or structural effect need no docum
 
 When quality, security, accessibility, and speed conflict, prioritize in this order: (1) safety and privacy, (2) correctness, (3) accessibility, (4) maintainability, (5) reproducibility, (6) performance, (7) convenience. Never trade away the first four silently.
 ----
-Copyright © 2026 The Regents of the University of Michigan.
+Copyright © YOUR_YEAR The Regents of the University of Michigan.
