@@ -70,6 +70,11 @@ YOUR_PROJECT_TITLE is a < program/library/collection of scripts > for < descript
 < 1-2 paragraphs about your department, core, lab, study team, class or project. This is your marketing space! >
 
 Learn more at: < link to dept/lab/project website >
+<!-- Example:
+The [Mobile Technologies Core](https://depressioncenter.org/mobiletech) provides investigators across the University of Michigan the support and guidance needed to utilize mobile technologies and digital mental health measures in their studies. Experienced faculty and staff offer hands-on consultative services to researchers throughout the University – regardless of specialty or research focus.
+
+Learn more at: [https://depressioncenter.org/mobiletech](https://depressioncenter.org/mobiletech).
+-->
 
 
 
