@@ -135,7 +135,7 @@ Free Documentation License". If not, see <https://www.gnu.org/licenses/fdl-1.3-s
 If you find this repository, code or paper useful for your research, please cite it.
 
 #### Citation Example:
->_Last, first; Last, First; Last, First (YOUR_YEAR). YOUR_PROJECT_NAME. University of Michigan. Software. https://github.com/DepressionCenter/YOUR_REPO_NAME_  
+>_Last, first; Last, First; Last, First (YOUR_YEAR). YOUR_PROJECT_NAME. Eisenberg Family Depression Center, University of Michigan. Software. https://github.com/DepressionCenter/YOUR_REPO_NAME_  
 ​​​​​​​     _DOI: [YOUR_DOI](https://doi.org/YOUR_DOI)_
 
 #### __OPTIONAL__ Release History and DOI #:
