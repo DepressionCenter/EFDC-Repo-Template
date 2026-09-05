@@ -11,8 +11,9 @@ See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license inf
 
 [Back to project README](../README.md)
 
-These pages help maintainers write project documentation and focused agent skills.
-Replace template content with verified project details as the project grows.
+This knowledge base helps you get started, use the project, and solve common
+problems through guides, how-tos, and troubleshooting tips. It also includes
+technical documentation for developers and maintainers.
 
 ### Guides
 
