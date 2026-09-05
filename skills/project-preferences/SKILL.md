@@ -1,6 +1,6 @@
 ---
 name: project-preferences
-description: Apply repository-specific preferences when planning, implementing, or reviewing changes in this project, especially proposed dependencies and tooling.
+description: Apply repository-specific preferences when planning, implementing, or reviewing changes in this project.
 ---
 
 <!--
@@ -23,21 +23,11 @@ licensing, testing, or authorization rules.
 
 ### Environment and structure
 
+Follow the repository’s existing file and folder naming conventions when adding new files.
+
 ### Setup and verification
 
 ### Project constraints
-
-Get the user's explicit approval before adding any of the following:
-
-- A build dependency.
-- A build script.
-- A framework, regardless of size.
-- An external library larger than 10 kB.
-
-When requesting approval, name the proposed addition, explain why the project
-needs it, and explain why you chose it over other options. Wait for approval
-before adding it. The 10 kB limit applies only to external libraries; build
-dependencies, build scripts, and frameworks always require approval.
 
 ### Project skills
 
