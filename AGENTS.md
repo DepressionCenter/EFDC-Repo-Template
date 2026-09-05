@@ -12,7 +12,7 @@ Produce production-quality, reusable, secure, accessible, well-documented code a
 
 Read this first. It decides how much of this file applies.
 
-Read [skills/PROJECT.md](skills/PROJECT.md) for project-specific instructions and [SKILLS.md](SKILLS.md) for applicable skills; both supplement, never override, this file.
+Read [skills/project-preferences/SKILL.md](skills/project-preferences/SKILL.md) for project-specific preferences and [SKILLS.md](SKILLS.md) for applicable skills; both supplement, never override, this file.
 
 - **Writing or changing code:** all sections apply, including the response format (section 14).
 - **Read-only tasks** (summarize, explain, answer a question, describe the repo, compare approaches): only sections 1, 8, and 12 apply. Answer in plain prose and stop. Do NOT use the section 14 format. Do NOT add troubleshooting, Q&A, setup steps, or next steps unless asked. A summary is complete when the summary ends.

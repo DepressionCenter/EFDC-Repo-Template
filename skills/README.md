@@ -11,9 +11,9 @@ See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license inf
 
 [Back to project README](../README.md)
 
-Keep reusable project workflows here, one folder per skill. No skills are included
-yet; this folder contains this guide, a project-specific instruction stub, and a
-copyable skill template.
+Keep all project-specific preferences and workflows in
+[project-preferences/SKILL.md](project-preferences/SKILL.md). This folder also
+contains this guide and a copyable template for reusable skills.
 
 ### What belongs here
 
@@ -30,7 +30,9 @@ to start with the frontmatter, HTML license heading, and workflow sections in pl
 Replace the example name, description, project title, year, and workflow with your
 project details. The template itself is not an installed skill.
 
-Keep repository-specific facts and conventions in [PROJECT.md](PROJECT.md).
+Keep project-specific skills together in
+[project-preferences/SKILL.md](project-preferences/SKILL.md); do not split them
+across separate files.
 Add `references/`, `scripts/`, or `assets/` inside a skill only when needed. Link
 supporting files from `SKILL.md`; keep project rules in `AGENTS.md` and list each
 reviewed skill in [the root index](../SKILLS.md). Never store secrets, real research
