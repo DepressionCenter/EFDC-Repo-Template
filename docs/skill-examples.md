@@ -19,15 +19,16 @@ choices; they do not certify these recipes or replace testing in your project.
 ### Turn a recipe into a skill
 
 1. Choose only the recipe relevant to your recurring task.
-2. Copy the skeleton below into `skills/<skill-name>/SKILL.md`. Replace its example
-   name and description with the selected recipe's values.
+2. Copy [skill-template.md](../skills/skill-template.md) (also shown below) into
+   `skills/<skill-name>/SKILL.md`. Replace its example name and description with
+   the selected recipe's values.
 3. Replace the example workflow with that recipe's bullets. Add actual project
    paths, supported versions, and verification commands after inspecting the repo.
 4. Keep the common constraints. Add links to the sources used and record the
    version or date checked when a rule depends on changing platform behavior.
 5. Review the complete skill and any bundled resources. Add its link and trigger
    to [SKILLS.md](../SKILLS.md) and follow the [folder guide](../skills/README.md)
-   for discovery. Try one matching task and one unrelated task in each client;
+   for file layout and review guidance. Try one matching task and one unrelated task in each client;
    confirm it guides the first without taking over the second.
 
 The skeleton's YAML must be the first content in an actual skill. Put the hidden

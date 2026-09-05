@@ -44,8 +44,7 @@ points. Those examples are documentation, not installed skills.
 
 `SKILLS.md` is a repository convention, not a native skill discovery filename.
 Codex reaches this index through `AGENTS.md`; Claude Code reaches the same
-instructions through the root `CLAUDE.md` import. Native skill menus require the
-tool-specific locations described in the folder guide.
+instructions through the root `CLAUDE.md` import. This instruction-file route does not register skills in native skill menus.
 
 ### Conclusion
 
