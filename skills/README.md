@@ -28,7 +28,9 @@ Markdown workflow, relevant constraints, and ways to verify the result.
 Copy [skill-template.md](skill-template.md) into `skills/<skill-name>/SKILL.md`
 to start with the frontmatter, HTML license heading, and workflow sections in place.
 Replace the example name, description, project title, year, and workflow with your
-project details. The template itself is not an installed skill.
+project details. After copying into the skill folder, update the links to
+`../../AGENTS.md` and `../project-preferences/SKILL.md` so they resolve from the new
+location. The template itself is not an installed skill.
 
 Keep project-specific skills together in
 [project-preferences/SKILL.md](project-preferences/SKILL.md); do not split them
