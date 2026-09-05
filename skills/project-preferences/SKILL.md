@@ -27,9 +27,17 @@ licensing, testing, or authorization rules.
 
 ### Project constraints
 
-Before introducing build dependencies, build scripts, frameworks, or external
-libraries larger than 10 kB, ask for permission and explain why the addition is
-needed and why that option was chosen.
+Get the user's explicit approval before adding any of the following:
+
+- A build dependency.
+- A build script.
+- A framework, regardless of size.
+- An external library larger than 10 kB.
+
+When requesting approval, name the proposed addition, explain why the project
+needs it, and explain why you chose it over other options. Wait for approval
+before adding it. The 10 kB limit applies only to external libraries; build
+dependencies, build scripts, and frameworks always require approval.
 
 ### Project skills
 
