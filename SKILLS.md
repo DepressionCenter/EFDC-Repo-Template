@@ -31,8 +31,7 @@ conflicts, follow the applicable higher-priority instructions and identify the c
 ### Available skills
 
 - [project-preferences](skills/project-preferences/SKILL.md): apply when planning,
-  implementing, or reviewing changes in this repository, including dependencies
-  and tooling.
+  implementing, or reviewing changes in this repository.
 
 Keep all project-specific preferences and workflows in `project-preferences`.
 List any separately adopted reusable skills here with their name, trigger, and
