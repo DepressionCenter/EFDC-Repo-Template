@@ -30,7 +30,7 @@ logs/*
 .idea/
 *.swp
 
-# Ignore AI coding tool configuration files, except AGENTS.md
+# Ignore local AI tool configuration; track the root shared-instruction bridge
 .claude
 .claude/*
 .claudecode/*
@@ -41,6 +41,7 @@ logs/*
 .github-copilot/*
 .kimi
 CLAUDE.md
+!/CLAUDE.md
 CLAUDECODE.md
 CONVENTIONS.md
 GEMINI.md

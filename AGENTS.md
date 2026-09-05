@@ -12,6 +12,8 @@ Produce production-quality, reusable, secure, accessible, well-documented code a
 
 Read this first. It decides how much of this file applies.
 
+Read [PROJECT.md](PROJECT.md) for project-specific instructions and [SKILLS.md](SKILLS.md) for applicable skills; both supplement, never override, this file.
+
 - **Writing or changing code:** all sections apply, including the response format (section 14).
 - **Read-only tasks** (summarize, explain, answer a question, describe the repo, compare approaches): only sections 1, 8, and 12 apply. Answer in plain prose and stop. Do NOT use the section 14 format. Do NOT add troubleshooting, Q&A, setup steps, or next steps unless asked. A summary is complete when the summary ends.
 - **Documentation tasks:** sections 1, 3, 4, 8, 11, 12, 16.
@@ -136,6 +138,7 @@ Security is an acceptance criterion. Default to secure behavior.
 - Use vetted, maintained libraries for crypto, authentication, and sessions. Never hand-roll crypto, password hashing, or token generation. Use the platform CSPRNG for anything security-relevant.
 - Pin dependencies with a lockfile. Before adding one, confirm it is maintained and free of known critical CVEs; state the check under Security Review.
 - Set safe defaults for file permissions, CORS, cookies (HttpOnly, Secure, SameSite), and HTTP security headers where the project controls them.
+- Consult the [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html), select topics from its [alphabetical index](https://cheatsheetseries.owasp.org/Glossary.html) that match the project and task, and read and apply the pertinent guidance for its inputs, data, interfaces, and execution environment.
 - Use OWASP ASVS 5.0 for web application verification and the OWASP Top 10 as a review checklist for anything handling untrusted input.
 - Keep keys, secrets, and PHI out of logs, errors, screenshots, and git history. Use `.gitignore`, environment variables or a vault, synthetic examples in docs and tests, and placeholders in code and config. A committed secret is compromised: flag it for rotation, not just deletion.
 
