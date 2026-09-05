@@ -11,9 +11,9 @@ See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license inf
 
 [Back to project README](../README.md)
 
-This knowledge base helps you get started, use the project, and solve common
-problems through guides, how-tos, and troubleshooting tips. It also includes
-technical documentation for developers and maintainers.
+Get started, learn how to use the project, and find solutions to common problems.
+For a closer look at how it works, explore the architecture and technical guides
+for developers and maintainers.
 
 ### Guides
 
