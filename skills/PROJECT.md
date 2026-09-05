@@ -9,7 +9,7 @@ See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license inf
 
 ## Project-specific instructions
 
-[Back to project README](README.md)
+[Back to project README](../README.md)
 
 Use this page for facts and instructions unique to this repository. Replace the
 prompts below with verified details; an unfilled section adds no requirements.
@@ -39,7 +39,7 @@ data assumptions, and files that need special care. Keep shared rules in AGENTS.
 ### Project skills
 
 No project skills are configured yet. Add reusable workflows under `skills/` and
-register them in [SKILLS.md](SKILLS.md). Use this section only to explain when this
+register them in [SKILLS.md](../SKILLS.md). Use this section only to explain when this
 project needs those skills; keep each workflow in its own `SKILL.md`.
 
 ### Conclusion
@@ -49,9 +49,9 @@ for shared rules and reusable workflows.
 
 ### Additional resources
 
-- [Shared project instructions](AGENTS.md)
-- [Skills index](SKILLS.md)
-- [Skills folder guide](skills/README.md)
-- [Skill authoring examples](docs/skill-examples.md)
+- [Shared project instructions](../AGENTS.md)
+- [Skills index](../SKILLS.md)
+- [Skills folder guide](README.md)
+- [Skill authoring examples](../docs/skill-examples.md)
 
-[Back to project README](README.md)
+[Back to project README](../README.md)

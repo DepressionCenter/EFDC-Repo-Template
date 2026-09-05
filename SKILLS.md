@@ -18,7 +18,7 @@ data, research, documentation, or another artifact.
 ### Use a skill
 
 1. Read the root and applicable nested `AGENTS.md` files first, then
-   [PROJECT.md](PROJECT.md) for repository-specific context.
+   [skills/PROJECT.md](skills/PROJECT.md) for repository-specific context.
 2. Check the available skills below and read only those matching the task.
 3. Follow their workflow within the scope, security, privacy, accessibility,
    licensing, verification, and change rules in `AGENTS.md`.
@@ -55,7 +55,7 @@ recurring task needs guidance beyond those rules.
 ### Additional resources
 
 - [Project instructions](AGENTS.md)
-- [Project-specific instructions](PROJECT.md)
+- [Project-specific instructions](skills/PROJECT.md)
 - [Skills folder guide](skills/README.md)
 - [Skill authoring examples](docs/skill-examples.md)
 - [Agent Skills specification](https://agentskills.io/specification)

@@ -12,7 +12,7 @@ See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license inf
 [Back to project README](../README.md)
 
 Keep reusable project workflows here, one folder per skill. No skills are included
-yet; this folder currently contains only this guide.
+yet; this folder contains this guide and the project-specific instruction stub.
 
 ### What belongs here
 
@@ -23,7 +23,7 @@ use it). Follow with a short Markdown workflow, relevant constraints, and ways t
 verify the result. Put the required hidden license notice after the frontmatter
 so the skill parser can read the metadata first.
 
-Keep repository-specific facts and conventions in [PROJECT.md](../PROJECT.md).
+Keep repository-specific facts and conventions in [PROJECT.md](PROJECT.md).
 Add `references/`, `scripts/`, or `assets/` inside a skill only when needed. Link
 supporting files from `SKILL.md`; keep project rules in `AGENTS.md` and list each
 reviewed skill in [the root index](../SKILLS.md). Never store secrets, real research
@@ -74,7 +74,7 @@ project knowledge, then update the root index and verify its behavior.
 ### Additional resources
 
 - [Project instructions](../AGENTS.md)
-- [Project-specific instructions](../PROJECT.md)
+- [Project-specific instructions](PROJECT.md)
 - [Root skills index](../SKILLS.md)
 - [Skill authoring examples](../docs/skill-examples.md)
 - [Agent Skills specification](https://agentskills.io/specification)

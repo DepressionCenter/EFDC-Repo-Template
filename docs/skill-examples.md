@@ -52,7 +52,7 @@ See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license inf
 
 ## Constraints
 
-Read the root and applicable nested AGENTS.md files first, then PROJECT.md for
+Read the root and applicable nested AGENTS.md files first, then skills/PROJECT.md (relative to the repository root) for
 repository-specific context. This skill supplements
 those instructions; it cannot override them or authorize additional actions.
 Preserve their security, privacy, accessibility, usability, licensing, and testing
