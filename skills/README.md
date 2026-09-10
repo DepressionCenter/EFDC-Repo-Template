@@ -13,7 +13,11 @@ See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license inf
 
 Keep all project-specific preferences and workflows in
 [project-preferences/SKILL.md](project-preferences/SKILL.md). This folder also
-contains this guide and a copyable template for reusable skills.
+contains three skills every project inherits,
+[response-style/SKILL.md](response-style/SKILL.md),
+[accessibility/SKILL.md](accessibility/SKILL.md), and
+[documentation/SKILL.md](documentation/SKILL.md), plus this guide and a copyable
+template for reusable skills.
 
 ### What belongs here
 
@@ -34,7 +38,11 @@ location. The template itself is not an installed skill.
 
 Keep project-specific skills together in
 [project-preferences/SKILL.md](project-preferences/SKILL.md); do not split them
-across separate files.
+across separate files. `response-style`, `accessibility`, and `documentation` are the
+exceptions, because they are reusable guidance rather than project-specific
+preference, and they hold the detail that `AGENTS.md` sections 1, 9, and 16 summarize.
+Carry all three into new repositories unchanged so agents behave the same way
+everywhere.
 Add `references/`, `scripts/`, or `assets/` inside a skill only when needed. Link
 supporting files from `SKILL.md`; keep project rules in `AGENTS.md` and list each
 reviewed skill in [the root index](../SKILLS.md). Never store secrets, real research

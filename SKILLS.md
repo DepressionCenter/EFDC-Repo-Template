@@ -19,7 +19,9 @@ data, research, documentation, or another artifact.
 
 1. Read the root and applicable nested `AGENTS.md` files first, then
    [skills/project-preferences/SKILL.md](skills/project-preferences/SKILL.md) for repository-specific context.
-2. Check the available skills below and read only those matching the task.
+2. Read [skills/response-style/SKILL.md](skills/response-style/SKILL.md) before writing prose in
+   any task. It always applies.
+3. Check the available skills below and read only those matching the task.
 3. Follow their workflow within the scope, security, privacy, accessibility,
    licensing, verification, and change rules in `AGENTS.md`.
 
@@ -32,8 +34,19 @@ conflicts, follow the applicable higher-priority instructions and identify the c
 
 - [project-preferences](skills/project-preferences/SKILL.md): apply when planning,
   implementing, or reviewing changes in this repository.
+- [response-style](skills/response-style/SKILL.md): apply whenever a response, commit
+  message, pull request, review comment, or document contains prose. This one always
+  applies; it expands section 1 of `AGENTS.md` and never relaxes it.
+- [accessibility](skills/accessibility/SKILL.md): apply when building or changing an
+  interface, or writing a document, dashboard, notebook, report, or Markdown page.
+  Expands section 9.
+- [documentation](skills/documentation/SKILL.md): apply when adding or changing a page
+  under `/docs`, or when a code change makes existing documentation wrong. Expands
+  section 16.
 
 Keep all project-specific preferences and workflows in `project-preferences`.
+`response-style`, `accessibility`, and `documentation` are reusable across projects and
+hold the detail that `AGENTS.md` summarizes, so keep them separate and edit them rarely.
 List any separately adopted reusable skills here with their name, trigger, and
 relative link; keep their detailed workflows in their own files.
 
