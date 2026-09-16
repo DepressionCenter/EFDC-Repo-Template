@@ -24,6 +24,8 @@ Thumbs.db
 log.txt
 logs.txt
 logs/*
+.coverage
+*-lint-report*
 
 # Ignore Editor cruft
 .vscode/
