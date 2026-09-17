@@ -17,7 +17,9 @@ contains three skills every project inherits,
 [response-style/SKILL.md](response-style/SKILL.md),
 [accessibility/SKILL.md](accessibility/SKILL.md), and
 [documentation/SKILL.md](documentation/SKILL.md), plus this guide and a copyable
-template for reusable skills.
+template for reusable skills. One optional skill,
+[create-media-pack/SKILL.md](create-media-pack/SKILL.md), builds a project logo,
+image set, and branding guide. Delete it if the project will never need one.
 
 ### What belongs here
 
