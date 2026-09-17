@@ -35,7 +35,7 @@ with this program. If not, see <https://www.gnu.org/licenses/>.
 > + Manually edit these sections:
 >   1. `README.md` → Description section and Credits section
 >   2. `CITATION.cff` → `authors:` block
->   3. `.zenodo.json` → `creators:` block
+>   3. `.zenodo.json` → `creators:` block (use each author's real ORCID, or delete the `orcid` line) and `code:programmingLanguage`
 > + When done, delete this note block.
 
 
