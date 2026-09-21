@@ -45,8 +45,9 @@ conflicts, follow the applicable higher-priority instructions and identify the c
   section 16.
 - [create-media-pack](skills/create-media-pack/SKILL.md): use when creating a
   project branding or media pack, with three accessible options, approved exports,
-  a branding guide, and README integration. Adapted from a skill by Gabriel
-  Mongefranco.
+  a branding guide, and README integration. Adapted from
+  [create-media-pack](https://github.com/gabrielmongefranco/repo-template/blob/main/skills/create-media-pack/SKILL.md)
+  by Gabriel Mongefranco.
 
 Keep all project-specific preferences and workflows in `project-preferences`.
 `response-style`, `accessibility`, and `documentation` are reusable across projects and

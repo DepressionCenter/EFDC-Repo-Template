@@ -105,7 +105,6 @@ If you need assistance identifying a contact person, email the Mobile Technologi
 #### This work is based in part on the following projects, libraries and/or studies:
 + None
 + __OR__ < Library_or_project_name > : < what_it_does.  How_it_is_used_in_this_project. > License: < license >. < link >
-+ Create Media Pack skill by Gabriel Mongefranco: Instructions that guide an AI coding agent through making a project logo, image set, and branding guide. Adapted in `skills/create-media-pack`; delete this line if you remove that skill. License: GNU FDL v1.3 or later. https://github.com/gabrielmongefranco/repo-template
 
 
 
