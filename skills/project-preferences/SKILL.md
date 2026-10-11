@@ -29,6 +29,12 @@ Follow the repository’s existing file and folder naming conventions when addin
 
 ### Project constraints
 
+### Terms
+
+List the one name this project uses for each concept, and use it in the interface,
+messages, help, and documentation. For example, "participant", not "subject" or
+"patient".
+
 ### Project skills
 
 ### Conclusion
