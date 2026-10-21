@@ -108,6 +108,10 @@ reads like a question cut short. Name the subject instead, such as "Permission
 levels on this site" or "Architecture". This applies to page subtitles, table
 captions, and link text that repeats a page title, too.
 
+The only exception is a frequently asked questions (FAQ) page, such as `faq.md`.
+There, a heading can be a question a person actually asked, written in full and
+ending with a question mark, such as "How do I export my data?"
+
 ### Lists and emphasis
 
 Do not evade this style by converting prose into bullet points. Use a list when the
@@ -169,7 +173,8 @@ fresh variant of one of these patterns counts as a violation.
 - Questions posed to the reader and then answered by the writer. Ask a question
   only when you want an answer.
 - Headings that start with a question word, such as "What not to remove" or "How
-  it works". Use a noun phrase that names the subject.
+  it works". Use a noun phrase that names the subject. Full questions on an FAQ
+  page are the exception.
 - Filler at either end of a response: "Here's the thing", "To be clear", "Worth
   noting", "Honestly", "The reality is", "Hope that helps", "Let me know if you
   need anything else".
